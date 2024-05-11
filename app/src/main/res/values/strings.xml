@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TaskWave</string>
+
+    //activityaddtask
+    <string name="addTaskHeading">Add Task.</string>
+    <string-array name="priority_options">
+        <item>High</item>
+        <item>Medium</item>
+        <item>Low</item>
+    </string-array>
+
+    //activitymain
+    <string name="tasks">Tasks.</string>
+
+    //task_item
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="prioritytxt">Priority : </string>
+
+    //activityupdate
+    <string name="updatetitle">Edit Task.</string>
+
+
+</resources>
